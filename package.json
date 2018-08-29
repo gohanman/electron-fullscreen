@@ -1,0 +1,22 @@
+{
+  "name": "electron-fullscreen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gohanman/electron-fullscreen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gohanman/electron-fullscreen/issues"
+  },
+  "homepage": "https://github.com/gohanman/electron-fullscreen#readme",
+  "dependencies": {
+    "electron": "^2.0.8"
+  }
+}
